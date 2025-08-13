@@ -1,4 +1,4 @@
-# Dealers Send Texts
+# Global Light Switch
 - **Requires:** [MelonLoader](https://melonwiki.xyz/#/)
 - **Recommended:** [Mod Manager Phone App](https://www.nexusmods.com/schedule1/mods/397)
 ---
