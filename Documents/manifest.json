@@ -1,0 +1,9 @@
+{
+  "name": "GlobalLightSwitch",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/GuysWeForgotDre/",
+  "description": "Toggles all lights in the game off and on with a single key",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.0"
+  ]
+}
